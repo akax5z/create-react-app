@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https:aka.aka-me.workers.dev"}
+    {"src": "/(.*)","dest": "https://aka.aka-me.workers.dev"}
   ]
 }
